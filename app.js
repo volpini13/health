@@ -1,6 +1,6 @@
 /**
  * APP GET
- * @author Caio Castro
+ * @author Arthur Garcia Volpini
  * 
  */
 
